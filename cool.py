@@ -3,7 +3,7 @@ def cool_func():
   print('cool_func: super cool.')
 
 def student_A():
-  print('Do something')
+  print('I practice implementation of \'for, while\'')
 
 def student_B():
   print('Do something')
