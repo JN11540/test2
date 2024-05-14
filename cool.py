@@ -6,7 +6,7 @@ def student_A():
   print('I practice implementation of \'for, while\'')
 
 def student_B():
-  print('Do something')
+  print('I didn\'t do anything in this week')
 
 if __name__ == '__main__':
   print("Call it locally.")
